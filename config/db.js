@@ -6,7 +6,7 @@ export const DbConnect=async()=>{
         console.log("Connected  to Database")
         
     } catch (error) {
-        console.log("getting an error in connectin in database")
+        console.log("getting an error in connectin in database",error)
         
     }
 }

@@ -1,2 +1,24 @@
 {"kind":"ObjectId","message":"Cast to ObjectId failed for value \":68f3e7a25f71560d9eaa2cba\" (type string) at path \"_id\" for model \"Task\"","name":"CastError","path":"_id","reason":{},"stringValue":"\":68f3e7a25f71560d9eaa2cba\"","value":":68f3e7a25f71560d9eaa2cba","valueType":"string"}
 {"kind":"ObjectId","message":"Cast to ObjectId failed for value \"6\" (type string) at path \"_id\" for model \"Task\"","name":"CastError","path":"_id","reason":{},"stringValue":"\"6\"","value":"6","valueType":"string"}
+{"level":"error","timestamp":"2025-10-19T15:08:00.899Z"}
+{"level":"error","timestamp":"2025-10-19T15:08:49.051Z"}
+{"level":"error","timestamp":"2025-10-19T15:09:18.822Z"}
+{"level":"error","timestamp":"2025-10-19T15:10:30.794Z"}
+{"level":"error","timestamp":"2025-10-19T15:11:08.905Z"}
+{"level":"error","timestamp":"2025-10-19T15:13:02.379Z"}
+{"level":"error","timestamp":"2025-10-19T15:13:45.290Z"}
+{"level":"error","timestamp":"2025-10-19T15:15:00.698Z"}
+{"level":"error","timestamp":"2025-10-19T15:15:58.806Z"}
+{"level":"error","timestamp":"2025-10-19T15:19:29.885Z"}
+{"level":"error","timestamp":"2025-10-19T15:20:54.566Z"}
+{"level":"error","timestamp":"2025-10-19T15:22:34.302Z"}
+{"level":"error","timestamp":"2025-10-19T15:24:58.585Z"}
+{"level":"error","timestamp":"2025-10-19T15:25:11.513Z"}
+{"level":"error","timestamp":"2025-10-19T15:25:43.240Z"}
+{"level":"error","timestamp":"2025-10-19T15:26:10.094Z"}
+{"level":"error","timestamp":"2025-10-19T15:26:32.952Z"}
+{"level":"error","timestamp":"2025-10-19T15:27:48.013Z"}
+{"level":"error","timestamp":"2025-10-19T15:28:04.951Z"}
+{"level":"error","timestamp":"2025-10-19T15:29:04.336Z"}
+{"level":"error","timestamp":"2025-10-19T15:31:34.652Z"}
+{"level":"error","timestamp":"2025-10-19T15:32:13.362Z"}
