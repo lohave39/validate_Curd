@@ -6,6 +6,7 @@ import rateLimit from"express-rate-limit";
 import compression from "compression";
 import { errorHandler, notFound } from "./middlewares/error.middleware.js";
 import taskRoutes from"./routes/taskRoutes.js"
+import authRoutes from "./routes/authRoutes.js"
 const  app=express();
 
 //middleware alll of 
@@ -23,6 +24,7 @@ app.get('/api/health',(req,res)=>{
 })
 
 app.use('/api/task',taskRoutes)
+app.use("/api/auth",authRoutes)
 
 //404 +error handeling()
 app.get('/api/health',(req,res)=>{
