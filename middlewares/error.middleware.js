@@ -6,7 +6,7 @@ export function notFound(req,res,next){
 }
 
 // Global error-handling middleware
- export const errorHandler = (err, req, res, next) => {
+ export const errorHandler = (err, req, res) => {
   // 1️⃣ Log the error (use centralized logging)
   logger.error(err);
 
