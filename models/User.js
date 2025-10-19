@@ -12,12 +12,11 @@ import mongoose from "mongoose";
       unique: true,
       lowercase: true,
       trim: true,
-    },    password: {
-      type: String,
-      required: [true, "Password is required"],
-      minlength: 6,
-      select: false, // don't return password in queries by default
-    },
+    },   
+     password: {
+    type: String,
+    required: [true, "Password is required"],
+  },
      role: {
       type: String,
       enum: ["user", "admin"],
